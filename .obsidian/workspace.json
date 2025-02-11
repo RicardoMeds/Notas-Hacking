@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "e776f14b19fb1170",
+    "type": "split",
+    "children": [
+      {
+        "id": "a994a64cb889690a",
+        "type": "tabs",
+        "children": [
+          {
+<<<<<<< HEAD
+            "id": "ee3b7ae2a444197a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plantilla"
+            }
+          },
+          {
+=======
+>>>>>>> 14c7c86 (first commit)
+            "id": "62d84dfffe9f4db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
+                "file": "PicoCTF/Plantilla.md",
+=======
+                "file": "PicoCTF/01-General Skills/01- Lets Warm Up.md",
+>>>>>>> 14c7c86 (first commit)
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+<<<<<<< HEAD
+              "title": "Plantilla"
+=======
+              "title": "01- Lets Warm Up"
+            }
+          },
+          {
+            "id": "7d4cb0d9d277ceb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/01-General Skills/01- Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01- Lets Warm Up"
+>>>>>>> 14c7c86 (first commit)
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec391bc3e74b24f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f76b601433dcbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d7ced3f7a19bec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f59f217906f4f159",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c2018ea3bb86e0e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "185bbd7134af9012",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc45c27bea304bd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ff9afa0fb926b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+<<<<<<< HEAD
+                "file": "PicoCTF/Plantilla.md",
+=======
+                "file": "Plantilla.md",
+>>>>>>> 14c7c86 (first commit)
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Plantilla"
+            }
+          },
+          {
+            "id": "7d17305ee5215f79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+<<<<<<< HEAD
+                "file": "PicoCTF/Plantilla.md",
+=======
+                "file": "Plantilla.md",
+>>>>>>> 14c7c86 (first commit)
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Plantilla"
+            }
+          },
+          {
+            "id": "7198c734c9be13dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "48177d054b7befd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+<<<<<<< HEAD
+                "file": "PicoCTF/Plantilla.md",
+=======
+                "file": "Plantilla.md",
+>>>>>>> 14c7c86 (first commit)
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Plantilla"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+<<<<<<< HEAD
+  "active": "62d84dfffe9f4db7",
+  "lastOpenFiles": [
+    "PicoCTF/README.md",
+    "PicoCTF/01-General Skills",
+    "PicoCTF/Plantilla.md",
+=======
+  "active": "7d4cb0d9d277ceb0",
+  "lastOpenFiles": [
+    "PicoCTF/01-General Skills/02 - 2Warm.md",
+    "Plantilla.md",
+    "PicoCTF/01-General Skills/01- Lets Warm Up.md",
+    "README.md",
+    "PicoCTF/01-General Skills",
+>>>>>>> 14c7c86 (first commit)
+    "Bienvenido.md",
+    "PicoCTF"
+  ]
+}
