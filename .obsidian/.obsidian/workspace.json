@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "887c64213ca3f09b",
+    "id": "a90d0e228318c9cd",
     "type": "split",
     "children": [
       {
-        "id": "f9c96f6a723e2c0c",
+        "id": "2ab375ed3681014c",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6dd6615bd837a9",
+            "id": "800cdbd69a64befc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "44bcb28957daf255",
+    "id": "205580a512b0a4d7",
     "type": "split",
     "children": [
       {
-        "id": "d38b1df9e72aaa5a",
+        "id": "f80cbab44bc0bb06",
         "type": "tabs",
         "children": [
           {
-            "id": "a853888fd2f518e6",
+            "id": "f4863369a5d118fe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "887f3d4d97b06e73",
+            "id": "8800f1bb76e786e8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "58f9d1c6bce11b44",
+            "id": "0518c0ef8da826ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "823298caf360a57c",
+    "id": "362c00ac0b85bbcf",
     "type": "split",
     "children": [
       {
-        "id": "118372bf9da785f1",
+        "id": "148a964986e127e8",
         "type": "tabs",
         "children": [
           {
-            "id": "2528fe3744b6a481",
+            "id": "ccaa6ed35333d2a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "f28a620cc3f3c596",
+            "id": "4ea9bccc82e17e96",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "04e2b851112c8aa9",
+            "id": "0740037454381124",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "2ef591a7cde40bf7",
+            "id": "b036c9d5ac618a22",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema"
             }
           }
         ]
@@ -168,6 +161,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2b6dd6615bd837a9",
+  "active": "800cdbd69a64befc",
   "lastOpenFiles": []
 }
