@@ -6,12 +6,18 @@
 
 **Pista**
 Envíe su respuesta en el formato de bandera de nuestro concurso. Por ejemplo, si su respuesta fue '11111', deberá enviar 'picoCTF{11111}' como bandera.
-#### - **Solución** con python 
-Para esta resolución hay varios métodos pero el que hice yo fue el poner un una linea de codigo en la aplicación de ubutun la cual fue: echo -e "\x70"
-Y lo que hace es decodifica el 70 en hexadecimal a texto normal, que equivale a la "p"
-y la llave seria:
-- picoCTF{00110100 00110010}
+#### - **Solución** 
+el número **42** en base 10 convertido a binario (base 2) es:
+**Dividir por 2 y registrar el residuo**:
 
-#### - Notas adicionales 
+- 42 ÷ 2 = **21**, residuo **0**
+- 21 ÷ 2 = **10**, residuo **1**
+- 10 ÷ 2 = **5**, residuo **0**
+- 5 ÷ 2 = **2**, residuo **1**
+- 2 ÷ 2 = **1**, residuo **0**
+- 1 ÷ 2 = **0**, residuo **1**
+- 
+- picoCTF{101010}
 
 #### - Referencias 
+https://gchq.github.io/CyberChef/
