@@ -8,147 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12550bbbdc12aff2",
+            "id": "35f29220754d89a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
+                "file": "PicoCTF/01 - Web/06 - Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - permissions"
+              "title": "06 - Client-side-again"
             }
           },
           {
-            "id": "7f04fbca9b615446",
+            "id": "fb34d1662564f90e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/02 - Chrono.md",
+                "file": "PicoCTF/01 - Web/06 - Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Chrono"
-            }
-          },
-          {
-            "id": "3e4285c988faf8eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/03 - Special.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - Special"
-            }
-          },
-          {
-            "id": "f423a262fc445021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/04 - committe issue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 - committe issue"
-            }
-          },
-          {
-            "id": "d48b8aaaf60e3230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/05 - Time machine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 - Time machine"
-            }
-          },
-          {
-            "id": "f85d118385435e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/06 - Blame game.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 - Blame game"
-            }
-          },
-          {
-            "id": "1f6b1ea27e3f2cf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/07 - Collaborative development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 - Collaborative development"
-            }
-          },
-          {
-            "id": "a5419759ed032906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/08 - Binay search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 - Binay search"
-            }
-          },
-          {
-            "id": "1db914ecda17aae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 - Binhexa"
-            }
-          },
-          {
-            "id": "947a8429e4be796e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 - ASCII Numbers"
+              "title": "06 - Client-side-again"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,8 +183,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "947a8429e4be796e",
+  "active": "fb34d1662564f90e",
   "lastOpenFiles": [
+    "PicoCTF/01 - Web/05 - Picobrowser.md",
+    "Pasted image 20250324123451.png",
+    "PicoCTF/01 - Web/04 - Dont-use-client-side.md",
+    "PicoCTF/01 - Web/03 - Logon.md",
+    "PicoCTF/01 - Web/02 - Where are the robots.md",
+    "PicoCTF/01 - Web/01 - Inspector.md",
     "PicoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
     "PicoCTF/Tarea 1 - General Skills/08 - Binay search.md",
     "PicoCTF/Tarea 1 - General Skills/07 - Collaborative development.md",
@@ -306,8 +200,11 @@
     "PicoCTF/Tarea 1 - General Skills/03 - Special.md",
     "PicoCTF/Tarea 1 - General Skills/02 - Chrono.md",
     "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
-    "PicoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
+    "Pasted image 20250324122707.png",
+    "PicoCTF/01 - Web/06 - Client-side-again.md",
     "PicoCTF/03 - General Skills/01 - Super SSH.md",
+    "PicoCTF/01 - Web",
+    "PicoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
     "Plantilla.md",
     "PicoCTF/Tarea 1 - General Skills",
     "PicoCTF/03 - General Skills/10 - Serpentine.md",
@@ -317,13 +214,6 @@
     "PicoCTF/03 - General Skills/04 - convertme.py.md",
     "PicoCTF/03 - General Skills/03 - Codebook.md",
     "PicoCTF/03 - General Skills/02 - runme.py.md",
-    "PicoCTF/02 - General Skills/10 - First Find.md",
-    "PicoCTF/02 - General Skills/09 - Big zip.md",
-    "PicoCTF/02 - General Skills/08 - repetitions.md",
-    "PicoCTF/02 - General Skills/07 - Magikarp Ground Mission.md",
-    "PicoCTF/02 - General Skills/06 - Tab, Tab, Attack.md",
-    "PicoCTF/02 - General Skills/05 - useless.md",
-    "PicoCTF/02 - General Skills/04 - Static ain't always noise.md",
     "PicoCTF/03 - General Skills",
     "PicoCTF/02 - General Skills"
   ]
