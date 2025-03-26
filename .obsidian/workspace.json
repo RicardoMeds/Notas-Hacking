@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - Web/06 - Client-side-again.md",
+                "file": "PicoCTF/02 - Web/03 - Scavenger Huntd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Client-side-again"
+              "title": "03 - Scavenger Huntd"
             }
           }
         ],
@@ -185,12 +185,17 @@
   },
   "active": "fb34d1662564f90e",
   "lastOpenFiles": [
+    "PicoCTF/02 - Web/02 - Cookies.md",
+    "PicoCTF/02 - Web/03 - Scavenger Huntd.md",
+    "PicoCTF/02 - Web/01 - GET aHEAD.md",
+    "PicoCTF/01 - Web/01 - Inspector.md",
+    "PicoCTF/01 - Web/04 - Dont-use-client-side.md",
+    "PicoCTF/02 - Web",
+    "PicoCTF/01 - Web/06 - Client-side-again.md",
     "PicoCTF/01 - Web/05 - Picobrowser.md",
     "Pasted image 20250324123451.png",
-    "PicoCTF/01 - Web/04 - Dont-use-client-side.md",
     "PicoCTF/01 - Web/03 - Logon.md",
     "PicoCTF/01 - Web/02 - Where are the robots.md",
-    "PicoCTF/01 - Web/01 - Inspector.md",
     "PicoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
     "PicoCTF/Tarea 1 - General Skills/08 - Binay search.md",
     "PicoCTF/Tarea 1 - General Skills/07 - Collaborative development.md",
@@ -201,7 +206,6 @@
     "PicoCTF/Tarea 1 - General Skills/02 - Chrono.md",
     "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
     "Pasted image 20250324122707.png",
-    "PicoCTF/01 - Web/06 - Client-side-again.md",
     "PicoCTF/03 - General Skills/01 - Super SSH.md",
     "PicoCTF/01 - Web",
     "PicoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
@@ -212,8 +216,6 @@
     "PicoCTF/03 - General Skills/08 - PW Crack 2.md",
     "PicoCTF/03 - General Skills/06 - fixme2.py.md",
     "PicoCTF/03 - General Skills/04 - convertme.py.md",
-    "PicoCTF/03 - General Skills/03 - Codebook.md",
-    "PicoCTF/03 - General Skills/02 - runme.py.md",
     "PicoCTF/03 - General Skills",
     "PicoCTF/02 - General Skills"
   ]
