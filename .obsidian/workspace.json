@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bfcc85b3b3195776",
+        "id": "f54ac15112ad107a",
         "type": "tabs",
         "children": [
           {
-            "id": "7c1945063d485f57",
+            "id": "35a2c239142cbd16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/11 - Actividad/03 - Trickster.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 - Trickster"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -168,9 +164,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7c1945063d485f57",
+  "active": "35a2c239142cbd16",
   "lastOpenFiles": [
+    "PicoCTF/Tarea 2 - Web/10 - WebDecode.md",
+    "PicoCTF/Tarea 2 - Web/09 - Unminify.md",
+    "PicoCTF/Tarea 2 - Web/08 - SQLiLite.md",
+    "PicoCTF/Tarea 2 - Web/07 - Secrets.md",
+    "PicoCTF/Tarea 2 - Web/06 - Roboto Sans.md",
+    "PicoCTF/Tarea 2 - Web/05 - Power Cookie.md",
+    "PicoCTF/Tarea 2 - Web/04 - Local Authority.md",
+    "PicoCTF/Tarea 2 - Web/03 - IntroToBurp.md",
+    "PicoCTF/Tarea 2 - Web/02 - Inspect HTML.md",
+    "PicoCTF/Tarea 2 - Web/01 - Includes.md",
+    "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
     "PicoCTF/11 - Actividad/02 - SOAP.md",
+    "PicoCTF/Tarea 2 - Web",
     "PicoCTF/11 - Actividad/03 - Trickster.md",
     "PicoCTF/10- Actividad/03 - JaWT Scratchpad.md",
     "PicoCTF/01-General Skills/01- Lets Warm Up.md",
@@ -185,21 +193,11 @@
     "Plantilla.md",
     "README.md",
     "PicoCTF/Tarea 1 - General Skills/05 - Time machine.md",
-    "PicoCTF/Tarea 1 - General Skills/08 - Binay search.md",
-    "PicoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
-    "PicoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
-    "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
-    "PicoCTF/11 - Actividad/04 - Most Cookies.md",
-    "PicoCTF/11 - Actividad/01 - MatchTheRegex.md",
     "Pasted image 20250402121109.png",
     "PicoCTF/11 - Actividad",
     "PicoCTF/10- Actividad",
-    "PicoCTF/02 - Web/01 - GET aHEAD.md",
-    "PicoCTF/02 - Web/02 - Cookies.md",
-    "PicoCTF/02 - Web/03 - Scavenger Huntd.md",
     "PicoCTF/02 - Web",
     "Pasted image 20250324123451.png",
-    "PicoCTF/Tarea 1 - General Skills/07 - Collaborative development.md",
     "Pasted image 20250324122707.png",
     "PicoCTF/01 - Web",
     "PicoCTF/Tarea 1 - General Skills",
