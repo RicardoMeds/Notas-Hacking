@@ -11,10 +11,14 @@
             "id": "7c1945063d485f57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/11 - Actividad/03 - Trickster.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "03 - Trickster"
             }
           }
         ]
@@ -166,9 +170,10 @@
   },
   "active": "7c1945063d485f57",
   "lastOpenFiles": [
+    "PicoCTF/11 - Actividad/02 - SOAP.md",
+    "PicoCTF/11 - Actividad/03 - Trickster.md",
     "PicoCTF/10- Actividad/03 - JaWT Scratchpad.md",
     "PicoCTF/01-General Skills/01- Lets Warm Up.md",
-    "PicoCTF/11 - Actividad/03 - Trickster.md",
     "PicoCTF/10- Actividad/02 - More SQLi.md",
     "PicoCTF/10- Actividad/01 - Irish-Name-Repo 1.md",
     "PicoCTF/01 - Web/01 - Inspector.md",
@@ -185,7 +190,6 @@
     "PicoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
     "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
     "PicoCTF/11 - Actividad/04 - Most Cookies.md",
-    "PicoCTF/11 - Actividad/02 - SOAP.md",
     "PicoCTF/11 - Actividad/01 - MatchTheRegex.md",
     "Pasted image 20250402121109.png",
     "PicoCTF/11 - Actividad",
@@ -196,7 +200,6 @@
     "PicoCTF/02 - Web",
     "Pasted image 20250324123451.png",
     "PicoCTF/Tarea 1 - General Skills/07 - Collaborative development.md",
-    "PicoCTF/Tarea 1 - General Skills/06 - Blame game.md",
     "Pasted image 20250324122707.png",
     "PicoCTF/01 - Web",
     "PicoCTF/Tarea 1 - General Skills",
