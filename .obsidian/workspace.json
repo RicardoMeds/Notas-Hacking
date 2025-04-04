@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "315e445374d8bc5f",
+        "id": "bfcc85b3b3195776",
         "type": "tabs",
         "children": [
           {
-            "id": "47d7ccbc60011b6e",
+            "id": "7c1945063d485f57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/10- Actividad/03 - JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 - JaWT Scratchpad"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -168,40 +164,42 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "47d7ccbc60011b6e",
+  "active": "7c1945063d485f57",
   "lastOpenFiles": [
-    "PicoCTF/10- Actividad/02 - More SQLi.md",
     "PicoCTF/10- Actividad/03 - JaWT Scratchpad.md",
+    "PicoCTF/01-General Skills/01- Lets Warm Up.md",
+    "PicoCTF/11 - Actividad/03 - Trickster.md",
+    "PicoCTF/10- Actividad/02 - More SQLi.md",
     "PicoCTF/10- Actividad/01 - Irish-Name-Repo 1.md",
-    "PicoCTF/01 - Web/02 - Where are the robots.md",
     "PicoCTF/01 - Web/01 - Inspector.md",
-    "Sin título.md",
+    "PicoCTF/01 - Web/02 - Where are the robots.md",
+    "PicoCTF/01 - Web/03 - Logon.md",
+    "PicoCTF/01 - Web/04 - Dont-use-client-side.md",
+    "PicoCTF/01 - Web/05 - Picobrowser.md",
+    "PicoCTF/01 - Web/06 - Client-side-again.md",
+    "Plantilla.md",
+    "README.md",
+    "PicoCTF/Tarea 1 - General Skills/05 - Time machine.md",
+    "PicoCTF/Tarea 1 - General Skills/08 - Binay search.md",
+    "PicoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
+    "PicoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
+    "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
+    "PicoCTF/11 - Actividad/04 - Most Cookies.md",
+    "PicoCTF/11 - Actividad/02 - SOAP.md",
+    "PicoCTF/11 - Actividad/01 - MatchTheRegex.md",
+    "Pasted image 20250402121109.png",
+    "PicoCTF/11 - Actividad",
     "PicoCTF/10- Actividad",
     "PicoCTF/02 - Web/01 - GET aHEAD.md",
     "PicoCTF/02 - Web/02 - Cookies.md",
     "PicoCTF/02 - Web/03 - Scavenger Huntd.md",
-    "PicoCTF/01 - Web/04 - Dont-use-client-side.md",
     "PicoCTF/02 - Web",
-    "PicoCTF/01 - Web/06 - Client-side-again.md",
-    "PicoCTF/01 - Web/05 - Picobrowser.md",
     "Pasted image 20250324123451.png",
-    "PicoCTF/01 - Web/03 - Logon.md",
-    "PicoCTF/Tarea 1 - General Skills/09 - Binhexa.md",
-    "PicoCTF/Tarea 1 - General Skills/08 - Binay search.md",
     "PicoCTF/Tarea 1 - General Skills/07 - Collaborative development.md",
     "PicoCTF/Tarea 1 - General Skills/06 - Blame game.md",
-    "PicoCTF/Tarea 1 - General Skills/05 - Time machine.md",
-    "PicoCTF/Tarea 1 - General Skills/04 - committe issue.md",
-    "PicoCTF/Tarea 1 - General Skills/03 - Special.md",
-    "PicoCTF/Tarea 1 - General Skills/02 - Chrono.md",
-    "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
     "Pasted image 20250324122707.png",
-    "PicoCTF/03 - General Skills/01 - Super SSH.md",
     "PicoCTF/01 - Web",
-    "PicoCTF/Tarea 1 - General Skills/10 - ASCII Numbers.md",
-    "Plantilla.md",
     "PicoCTF/Tarea 1 - General Skills",
-    "PicoCTF/03 - General Skills/10 - Serpentine.md",
     "PicoCTF/03 - General Skills",
     "PicoCTF/02 - General Skills"
   ]
