@@ -11,10 +11,14 @@
             "id": "35a2c239142cbd16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/01 - Primer Examen Parcial Parte 1/05 - Rust fixme 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "05 - Rust fixme 2"
             }
           }
         ]
@@ -166,6 +170,29 @@
   },
   "active": "35a2c239142cbd16",
   "lastOpenFiles": [
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/04 - Rust fixme 1.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/03 - Python Wrangling.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/05 - Rust fixme 2.md",
+    "PicoCTF/12 - Actividad/01 - Glory of the Garden.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/02 - HashingjobApp.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/01 - FANTASY CTF.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/06 - Rust fixme 3.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/07 - dont-you-love-banners.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/08 - flag_shop.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/09 - SansAlpha.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/10 - Specialer.md",
+    "PicoCTF/01 - Web/01 - Inspector.md",
+    "PicoCTF/12 - Actividad/03 - shark on wire 1.md",
+    "PicoCTF/12 - Actividad/04 - Extensions.md",
+    "PicoCTF/12 - Actividad/05 - What Lies Within.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 2",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/Sin nombre",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1",
+    "PicoCTF/12 - Actividad/02 - So Meta.md",
+    "PicoCTF/11 - Actividad/01 - MatchTheRegex.md",
+    "PicoCTF/12 - Actividad/Sin título 5.md",
+    "PicoCTF/Tarea 2 - Web/01 - Includes.md",
+    "PicoCTF/12 - Actividad",
     "PicoCTF/Tarea 2 - Web/10 - WebDecode.md",
     "PicoCTF/Tarea 2 - Web/09 - Unminify.md",
     "PicoCTF/Tarea 2 - Web/08 - SQLiLite.md",
@@ -173,26 +200,7 @@
     "PicoCTF/Tarea 2 - Web/06 - Roboto Sans.md",
     "PicoCTF/Tarea 2 - Web/05 - Power Cookie.md",
     "PicoCTF/Tarea 2 - Web/04 - Local Authority.md",
-    "PicoCTF/Tarea 2 - Web/03 - IntroToBurp.md",
-    "PicoCTF/Tarea 2 - Web/02 - Inspect HTML.md",
-    "PicoCTF/Tarea 2 - Web/01 - Includes.md",
-    "PicoCTF/Tarea 1 - General Skills/01 - permissions.md",
-    "PicoCTF/11 - Actividad/02 - SOAP.md",
     "PicoCTF/Tarea 2 - Web",
-    "PicoCTF/11 - Actividad/03 - Trickster.md",
-    "PicoCTF/10- Actividad/03 - JaWT Scratchpad.md",
-    "PicoCTF/01-General Skills/01- Lets Warm Up.md",
-    "PicoCTF/10- Actividad/02 - More SQLi.md",
-    "PicoCTF/10- Actividad/01 - Irish-Name-Repo 1.md",
-    "PicoCTF/01 - Web/01 - Inspector.md",
-    "PicoCTF/01 - Web/02 - Where are the robots.md",
-    "PicoCTF/01 - Web/03 - Logon.md",
-    "PicoCTF/01 - Web/04 - Dont-use-client-side.md",
-    "PicoCTF/01 - Web/05 - Picobrowser.md",
-    "PicoCTF/01 - Web/06 - Client-side-again.md",
-    "Plantilla.md",
-    "README.md",
-    "PicoCTF/Tarea 1 - General Skills/05 - Time machine.md",
     "Pasted image 20250402121109.png",
     "PicoCTF/11 - Actividad",
     "PicoCTF/10- Actividad",
@@ -200,8 +208,6 @@
     "Pasted image 20250324123451.png",
     "Pasted image 20250324122707.png",
     "PicoCTF/01 - Web",
-    "PicoCTF/Tarea 1 - General Skills",
-    "PicoCTF/03 - General Skills",
-    "PicoCTF/02 - General Skills"
+    "PicoCTF/Tarea 1 - General Skills"
   ]
 }
