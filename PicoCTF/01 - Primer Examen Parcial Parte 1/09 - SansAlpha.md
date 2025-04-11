@@ -1,13 +1,15 @@
 #### - **Descripción** 
-#### Description
+¡El Multiverso está a tu alcance! Desafortunadamente, el servidor que contiene los secretos del multiverso se encuentra en un universo donde los teclados solo tienen números y (la mayoría de) símbolos.
 
-Kishor Balan tipped us off that the following code may need inspection: `https://jupiter.challenges.picoctf.org/problem/41511/` ([link](https://jupiter.challenges.picoctf.org/problem/41511/)) or http://jupiter.challenges.picoctf.org:41511
-
+Habrá detalles adicionales disponibles después de lanzar su instancia de desafío.
 #### Pista 
-How do you inspect web code on a browser?
-There's 3 parts
+¿Dónde puedo conseguir algunas cartas?
 
 #### - **Solución** 
-Entrar al codigo fuente de la pagina y despues entrar a mycss y a myjs.js
-y al final juntar las 3 partes 
-picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}
+SansAlpha$ /???/???[!_]64 /????/??????????/??????/????????
+cmV0dXJuIDAgcGljb0NURns3aDE1X211MTcxdjNyNTNfMTVfbTRkbjM1NV84YjNkODNhZH0=
+
+SansAlpha$
+richi@RicardoMedina:~$ echo "cmV0dXJuIDAgcGljb0NURns3aDE1X211MTcxdjNyNTNfMTVfbTRkbjM1NV84YjNkODNhZH0=" | base64 -d
+return 0 picoCTF{7h15_mu171v3r53_15_m4dn355_8b3d83ad}richi@RicardoMedina:~$
+picoCTF{7h15_mu171v3r53_15_m4dn355_8b3d83ad}
