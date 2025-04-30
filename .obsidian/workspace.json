@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "386c2a7a90e89e1f",
+        "id": "cde3e912f76ecff3",
         "type": "tabs",
         "children": [
           {
-            "id": "b0b31bac4baea0d2",
+            "id": "629eb82d94f1c0d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - Primer Examen Parcial Parte 2/10 - WebSockFish.md",
+                "file": "PicoCTF/01 - Forensic 2/03 - c0rrupt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - WebSockFish"
+              "title": "03 - c0rrupt"
             }
           }
         ]
@@ -62,16 +62,6 @@
               },
               "icon": "lucide-search",
               "title": "Buscar"
-            }
-          },
-          {
-            "id": "58f9d1c6bce11b44",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
             }
           }
         ]
@@ -168,8 +158,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b0b31bac4baea0d2",
+  "active": "629eb82d94f1c0d9",
   "lastOpenFiles": [
+    "PicoCTF/01 - Forensic 2/03 - c0rrupt.md",
+    "PicoCTF/01 - Forensic 2/01 - m00nwalk.md",
+    "PicoCTF/01 - Forensic 2/02 - WhitePages.md",
+    "Pasted image 20250429224019.png",
+    "PicoCTF/01 - Forensic 2/05 - shark on wire 2.md",
+    "Pasted image 20250429100253.png",
+    "PicoCTF/01 - Forensic 2/04 - like1000.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 1/01 - FANTASY CTF.md",
+    "PicoCTF/01 - Primer Examen Parcial Parte 2/10 - WebSockFish.md",
+    "PicoCTF/01 - Forensic 2",
     "Pasted image 20250411134941.png",
     "PicoCTF/01 - Primer Examen Parcial Parte 2/09 - SSTI2.md",
     "PicoCTF/01 - Primer Examen Parcial Parte 2/08 - SQL Direct.md",
@@ -180,8 +180,6 @@
     "PicoCTF/01 - Primer Examen Parcial Parte 2/03 - head-dump.md",
     "PicoCTF/01 - Primer Examen Parcial Parte 2/02 - Cookie Monster Secret Recipe.md",
     "PicoCTF/01 - Primer Examen Parcial Parte 2/01 - Bookmarklet.md",
-    "PicoCTF/01 - Primer Examen Parcial Parte 2/10 - WebSockFish.md",
-    "PicoCTF/01 - Primer Examen Parcial Parte 1/01 - FANTASY CTF.md",
     "PicoCTF/01 - Primer Examen Parcial Parte 1/10 - Specialer.md",
     "PicoCTF/01 - Primer Examen Parcial Parte 1/09 - SansAlpha.md",
     "PicoCTF/01 - Primer Examen Parcial Parte 1/08 - flag_shop.md",
@@ -191,11 +189,6 @@
     "PicoCTF/01 - Primer Examen Parcial Parte 1/04 - Rust fixme 1.md",
     "PicoCTF/01 - Primer Examen Parcial Parte 1/03 - Python Wrangling.md",
     "PicoCTF/12 - Actividad/01 - Glory of the Garden.md",
-    "PicoCTF/01 - Primer Examen Parcial Parte 1/02 - HashingjobApp.md",
-    "PicoCTF/01 - Web/01 - Inspector.md",
-    "PicoCTF/12 - Actividad/03 - shark on wire 1.md",
-    "PicoCTF/12 - Actividad/04 - Extensions.md",
-    "PicoCTF/12 - Actividad/05 - What Lies Within.md",
     "PicoCTF/01 - Primer Examen Parcial Parte 2",
     "PicoCTF/01 - Primer Examen Parcial Parte 1/Sin nombre",
     "PicoCTF/01 - Primer Examen Parcial Parte 1",
@@ -207,7 +200,6 @@
     "PicoCTF/02 - Web",
     "Pasted image 20250324123451.png",
     "Pasted image 20250324122707.png",
-    "PicoCTF/01 - Web",
-    "PicoCTF/Tarea 1 - General Skills"
+    "PicoCTF/01 - Web"
   ]
 }
