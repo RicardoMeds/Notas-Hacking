@@ -23,3 +23,4 @@ richi@RicardoMedina:/opt/sstv$ sudo python3 setup.py install
 richi@RicardoMedina:~/moonwalk$ sstv -d message.wav -o result.png
 ![[Pasted image 20250429224019.png]]
 picoCTF{beep_boop_im_in_space}
+
