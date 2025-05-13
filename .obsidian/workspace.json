@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 3 - Forensic/10 - flags are stepic.md",
+                "file": "PicoCTF/01 - Crypto/08 - interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - flags are stepic"
+              "title": "08 - interencdec"
             }
           }
         ]
@@ -170,8 +170,18 @@
   },
   "active": "629eb82d94f1c0d9",
   "lastOpenFiles": [
-    "flag.png",
+    "PicoCTF/01 - Crypto/06 - Tapping.md",
+    "PicoCTF/01 - Crypto/08 - interencdec.md",
+    "PicoCTF/01 - Crypto/07 - waves over lambda.md",
+    "PicoCTF/01 - Crypto/05 - La cifra de.md",
+    "PicoCTF/01 - Crypto/02 - 13.md",
+    "PicoCTF/01 - Crypto/01 - The numbers.md",
+    "PicoCTF/01 - Crypto/04 - Easy 1.md",
+    "PicoCTF/01 - Crypto/03 - Cesar.md",
+    "PicoCTF/Tarea 3 - Forensic/01 - information.md",
     "PicoCTF/Tarea 3 - Forensic/10 - flags are stepic.md",
+    "PicoCTF/01 - Crypto",
+    "flag.png",
     "PicoCTF/Tarea 3 - Forensic/09 - Ph4nt0m 1ntrud3r.md",
     "PicoCTF/Tarea 3 - Forensic/08 - RED.md",
     "PicoCTF/Tarea 3 - Forensic/07 - Secret of the Polyglot.md",
@@ -180,7 +190,6 @@
     "PicoCTF/Tarea 3 - Forensic/04 - hideme.md",
     "PicoCTF/Tarea 3 - Forensic/03 - Redaction gone wrong.md",
     "PicoCTF/Tarea 3 - Forensic/02 - St3g0.md",
-    "PicoCTF/Tarea 3 - Forensic/01 - information.md",
     "PicoCTF/Tarea 3 - Forensic/Sin nombre",
     "PicoCTF/02 - Forensic 3/01 - WebNet0.md",
     "PicoCTF/04 - Forensic 4/06 - Operation Oni.md",
@@ -191,20 +200,13 @@
     "PicoCTF/04 - Forensic 4/02 - Disk, disk, sleuth!.md",
     "PicoCTF/04 - Forensic 4/01 - Milkslap.md",
     "PicoCTF/03 - General Skills/01 - Super SSH.md",
-    "PicoCTF/02 - Forensic 3/05 - MacroHard WeakEdge.md",
     "PicoCTF/04 - Forensic 4",
-    "PicoCTF/02 - Forensic 3/02 - WebNet1.md",
-    "PicoCTF/02 - Forensic 3/04 - tunn3l_v1s10n.md",
     "Pasted image 20250505123622.png",
-    "PicoCTF/02 - Forensic 3/03 - Matryoshka doll.md",
     "Pasted image 20250501160632.png",
     "Pasted image 20250501155437.png",
     "Pasted image 20250501154544.png",
-    "PicoCTF/01 - Forensic 2/01 - m00nwalk.md",
     "PicoCTF/02 - Forensic 3",
     "Sin nombre",
-    "PicoCTF/01 - Forensic 2/02 - WhitePages.md",
-    "PicoCTF/01 - Forensic 2/03 - c0rrupt.md",
     "Pasted image 20250429224019.png",
     "Pasted image 20250429100253.png",
     "PicoCTF/01 - Forensic 2",
@@ -212,7 +214,6 @@
     "PicoCTF/01 - Primer Examen Parcial Parte 2",
     "PicoCTF/01 - Primer Examen Parcial Parte 1/Sin nombre",
     "PicoCTF/01 - Primer Examen Parcial Parte 1",
-    "PicoCTF/12 - Actividad",
     "Pasted image 20250402121109.png",
     "Pasted image 20250324123451.png"
   ]
